@@ -1,4 +1,2 @@
-fib
-===
-
-myhomework
+# homework and notes
+# assembly language
